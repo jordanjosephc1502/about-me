@@ -14,13 +14,15 @@ ___
 **schedule**
 
 - SEP
+- LUNCH
 - ALG 2
 - GYM
 - BHP
+- GLOBAL
 - CHEM
 - SPANISH
-- GLOBAL
-- LUNCH
+
+
 
 
 
